@@ -1,0 +1,43 @@
+{
+    "pageContent":{
+    "heading": "Question 7",
+      "question": "<p>How many light points or watts are admissible in a lighting circuit?</p>",
+      "instruction": "<p>Select the correct answer, and then click the <strong>Submit</strong> button.</p>",
+      "imageQuestionShow": false,
+      "imageQuestionZoom": false,
+      "questionImagePath": "",
+      "questionZoomImage": "",
+      "imageOptions": false,
+      "options": [
+        "A. 8 light points or 500 watts",
+        "B. 10 light points or 1000 watts",
+        "C. 15 light points or 800 watts",
+        "D. 10 light points or 800 watts"
+      ],
+      "popupHeadingCorrect":"Well Done!",
+      "popupHeadingIncorrect":"That’s incorrect!",
+      "correctAnswer": "10 light points or 1000 watts",
+      "feedback": {
+        "incorrect1": "<p>Please try again.</p>",
+        "incorrect2": "<p>10 light points or 1000 watts are admissible in a lighting circuit.</p>",
+        "correct": "<p>10 light points or 1000 watts are admissible in a lighting circuit.</p>"
+      },
+      "transcript":[
+                  {
+                      "correct": "<p>10 light points or 1000 watts are admissible in a lighting circuit.</p>",
+                      "audio": "slide25_welldone"
+                  },
+                  {
+                      "incorrect1": "<p>Please try again.</p>",
+                      "audio": "General_please_try_again"
+                  },
+                  {
+                      "incorrect2": "<p>10 light points or 1000 watts are admissible in a lighting circuit.</p>",
+                      "audio": "slide25_incorrect"
+                  }
+              ]
+    }
+  
+     
+  }
+  
